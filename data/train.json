@@ -1,0 +1,1622 @@
+[
+  {
+    "instruction": "Which composer does Ann mainly like?",
+    "input": "Everything to Play For (Ann)",
+    "output": "Mozart."
+  },
+  {
+    "instruction": "What does 'volunteerism' mean?",
+    "input": "Module 2 – We Learn to Give, Share and Care",
+    "output": "Offering time or talents willingly without being compelled."
+  },
+  {
+    "instruction": "Is the song about friendship, love, or sailing?",
+    "input": "Lesson 4 – Bridge Over Troubled Water",
+    "output": "It’s about friendship and support."
+  },
+  {
+    "instruction": "What image does the singer use to show strong support?",
+    "input": "Lesson 4 – Bridge Over Troubled Water",
+    "output": "A bridge over troubled water."
+  },
+  {
+    "instruction": "In the welcome note, what is enclosed for guests?",
+    "input": "Unit 1 - Welcome Note",
+    "output": "Useful and important information."
+  },
+  {
+    "instruction": "According to her, what keeps you going when older in this job?",
+    "input": "It’s All in the Preparation",
+    "output": "Making a wedding cake every so often."
+  },
+  {
+    "instruction": "What does 'bundled into freezer bags' mean?",
+    "input": "Module 3 – A Change is as Good as a Rest",
+    "output": "Meals are packed together into bags for later cooking at home."
+  },
+  {
+    "instruction": "How did Beckham’s new teammates help him?",
+    "input": "Lesson 7 – An Interview with a Footballer",
+    "output": "They made efforts to help him integrate."
+  },
+  {
+    "instruction": "Why is revising heavily at the last minute a bad idea?",
+    "input": "Lesson 19 – Coping with Exams",
+    "output": "Because you need rest; a good night’s sleep keeps your mind fresh."
+  },
+  {
+    "instruction": "What is −40° in Celsius compared to Fahrenheit?",
+    "input": "Unit 4 - Newscast (Conversions)",
+    "output": "They are equal (−40°C = −40°F)."
+  },
+  {
+    "instruction": "Who finally wrote with sad news near the end?",
+    "input": "A Friend I Could Never Forget",
+    "output": "John, Helen’s husband."
+  },
+  {
+    "instruction": "Where did Cara grow up?",
+    "input": "We’ve Made It to the Top",
+    "output": "Edgware, Middlesex."
+  },
+  {
+    "instruction": "Why can red cells be frozen?",
+    "input": "Tips to Keep Your Blood Healthy",
+    "output": "To keep stock of rare blood groups."
+  },
+  {
+    "instruction": "In 'TEEVEE', what breaks the couple’s silence?",
+    "input": "Module 6 – Nature: Any Future Without It?",
+    "output": "The TV set breaking; they finally speak to each other."
+  },
+  {
+    "instruction": "According to Emily Dickinson’s poem, what makes life 'not in vain'?",
+    "input": "Module 2 – We Learn to Give, Share and Care",
+    "output": "Stopping one heart from breaking or helping a fainting robin to its nest."
+  },
+  {
+    "instruction": "Write a polite closing line for a cover letter.",
+    "input": "Unit 4 - Job Ads (Writing)",
+    "output": "I look forward to hearing from you."
+  },
+  {
+    "instruction": "Find the tense: 'The iPod has changed media.'",
+    "input": "Unit 3 - Technology Article (Present Perfect)",
+    "output": "Present perfect."
+  },
+  {
+    "instruction": "How many stepchildren did Jennifer have, and what were their names?",
+    "input": "Lesson 2 – The Stepmum",
+    "output": "Three: Jay, Dan, and Kerry."
+  },
+  {
+    "instruction": "What is one recommended poster message for the environment?",
+    "input": "Module 6 – Nature: Any Future Without It?",
+    "output": "“If it’s not far, don’t go by car.”"
+  },
+  {
+    "instruction": "What does philanthropy mean in this module?",
+    "input": "Module 2 – We Learn to Give, Share and Care",
+    "output": "Unselfish concern for the welfare of others shown by giving or service."
+  },
+  {
+    "instruction": "Give one polite word you should use when speaking in class.",
+    "input": "Getting to Know Each Other",
+    "output": "Please."
+  },
+  {
+    "instruction": "Give one benefit of resolving conflicts calmly.",
+    "input": "Lesson 9 – Violence",
+    "output": "It prevents harm and helps maintain relationships."
+  },
+  {
+    "instruction": "When Whitney gets into trouble, what do her parents do?",
+    "input": "Lesson 1 – The Image of Who I Am",
+    "output": "They explain the consequences instead of yelling."
+  },
+  {
+    "instruction": "Name two related concepts to philanthropy from the spidergram.",
+    "input": "Module 2 – We Learn to Give, Share and Care",
+    "output": "Altruism and volunteerism."
+  },
+  {
+    "instruction": "What warning did swimmers ignore before getting into trouble?",
+    "input": "Can an Animal Save Someone’s Life?",
+    "output": "Red warning flags on the beach."
+  },
+  {
+    "instruction": "Name two iron-rich foods recommended.",
+    "input": "Tips to Keep Your Blood Healthy",
+    "output": "Red meat and liver."
+  },
+  {
+    "instruction": "Who established the Nobel Prize in his will?",
+    "input": "Unit 3 - Prize Winners (Nobel)",
+    "output": "Alfred Nobel."
+  },
+  {
+    "instruction": "How old was Jennifer when she became a stepmother?",
+    "input": "Lesson 2 – The Stepmum",
+    "output": "Twenty."
+  },
+  {
+    "instruction": "Who encourages Whitney to keep planning for her future?",
+    "input": "Lesson 1 – The Image of Who I Am",
+    "output": "Her parents and friends."
+  },
+  {
+    "instruction": "How long had it been since Jackie and Heather last saw each other?",
+    "input": "Lesson 3 – Friendship",
+    "output": "Twenty‑three years."
+  },
+  {
+    "instruction": "What is an effective opener for a charity speech?",
+    "input": "Module 2 – We Learn to Give, Share and Care",
+    "output": "A short anecdote that humanizes beneficiaries."
+  },
+  {
+    "instruction": "Name one 'core subject' in early secondary education in England.",
+    "input": "Unit 2 - Comparing Systems",
+    "output": "Mathematics."
+  },
+  {
+    "instruction": "In the tsunami story, what did Sandra learn on TV?",
+    "input": "Module 6 – Nature: Any Future Without It?",
+    "output": "A tsunami struck the region where her daughter was honeymooning."
+  },
+  {
+    "instruction": "What does the singer say he will do if his friend needs him?",
+    "input": "Lesson 4 – Bridge Over Troubled Water",
+    "output": "Sail right behind and ease her mind."
+  },
+  {
+    "instruction": "What punctuation marks set off an apposition?",
+    "input": "Unit 2 - Online Learning (Punctuation)",
+    "output": "Commas."
+  },
+  {
+    "instruction": "Emphasize with 'do/does/did': 'He ____ work hard.'",
+    "input": "Unit 2 - Virtual Schools (Emphasis)",
+    "output": "Does."
+  },
+  {
+    "instruction": "List two values highlighted in this module.",
+    "input": "Module 2 – We Learn to Give, Share and Care",
+    "output": "Solidarity and generosity."
+  },
+  {
+    "instruction": "Give one practical water‑saving habit from the quiz.",
+    "input": "Module 6 – Nature: Any Future Without It?",
+    "output": "Turn off the tap while brushing your teeth."
+  },
+  {
+    "instruction": "Change to passive: 'They declared a state of emergency.'",
+    "input": "Unit 4 - Newscast (Passive)",
+    "output": "A state of emergency was declared."
+  },
+  {
+    "instruction": "What does Whitney need to become a pediatrician?",
+    "input": "Lesson 1 – The Image of Who I Am",
+    "output": "A lot of school and self‑confidence to achieve her goal."
+  },
+  {
+    "instruction": "Complete: They are too poor ____ send their children to school.",
+    "input": "Unit 2 - Education for All (Grammar)",
+    "output": "To."
+  },
+  {
+    "instruction": "What twist ends 'True Love'?",
+    "input": "Module 4 – Science and Technology: A Blessing or a Curse?",
+    "output": "Joe arranges for Charity to be assigned and ensures Milton is removed, keeping her for himself."
+  },
+  {
+    "instruction": "Why did Sade quit recording for a time in the late 80s?",
+    "input": "Queen of Soul",
+    "output": "Life in the public eye was too much for her."
+  },
+  {
+    "instruction": "How did the swimmers behave after being rescued?",
+    "input": "Can an Animal Save Someone’s Life?",
+    "output": "They ran away without thanking the rescuers."
+  },
+  {
+    "instruction": "What can lack of money sometimes lead to?",
+    "input": "Lesson 12 – Money and Evil",
+    "output": "Borrowing, cheating, stealing, or violence to make ends meet."
+  },
+  {
+    "instruction": "What product idea failed because it lost its fizz?",
+    "input": "We’ve Made It to the Top",
+    "output": "Imported bottled water from the Himalayas."
+  },
+  {
+    "instruction": "What do O-level and A-level refer to?",
+    "input": "Unit 2 - School-related Words",
+    "output": "Examination levels (Ordinary and Advanced)."
+  },
+  {
+    "instruction": "What does 'to conform to' mean in this debate?",
+    "input": "Lesson 18 – School Uniforms",
+    "output": "To follow rules or match a standard."
+  },
+  {
+    "instruction": "List two typical e‑learning interactions.",
+    "input": "Module 5 – Education Is Not Filling a Bucket but Lighting a Fire",
+    "output": "Watching audio/video lectures and joining chat discussions."
+  },
+  {
+    "instruction": "Name one grammar point practiced with technology topics.",
+    "input": "Module 4 – Science and Technology: A Blessing or a Curse?",
+    "output": "Prefixes of negation like il‑, im‑, in‑, ir‑, dis‑, mis‑."
+  },
+  {
+    "instruction": "Choose the correct collocation: 'dark ____' (sky / soup / paper).",
+    "input": "Introductory Unit - Collocations",
+    "output": "Sky."
+  },
+  {
+    "instruction": "What should you do if you finish the exam early?",
+    "input": "Lesson 19 – Coping with Exams",
+    "output": "Use remaining time to check all answers, even the easy ones."
+  },
+  {
+    "instruction": "How does Beckham feel about meeting English teams as a Real player?",
+    "input": "Lesson 7 – An Interview with a Footballer",
+    "output": "He considers it an honour."
+  },
+  {
+    "instruction": "What writing task is inspired by Martin Luther King Jr.?",
+    "input": "Module 2 – We Learn to Give, Share and Care",
+    "output": "Producing a chronological piece based on his timeline and achievements."
+  },
+  {
+    "instruction": "What special right do guide dogs have in public places?",
+    "input": "Human Rights — Brian and Rover",
+    "output": "They are allowed on buses, trains, offices, and some restaurants."
+  },
+  {
+    "instruction": "What is a non‑violent way to resolve a conflict?",
+    "input": "Lesson 9 – Violence",
+    "output": "Apologize and seek a compromise."
+  },
+  {
+    "instruction": "Silent letter: Write a word where 'k' is silent at the beginning.",
+    "input": "Across Units - Pronunciation",
+    "output": "Knee."
+  },
+  {
+    "instruction": "Does Beckham say the media make him tired, or is he fine with it?",
+    "input": "Lesson 7 – An Interview with a Footballer",
+    "output": "He accepts media attention as part of the job."
+  },
+  {
+    "instruction": "Give one collocation with 'life' (e.g., life ____).",
+    "input": "Unit 4 - Life Concerns",
+    "output": "Lifestyle."
+  },
+  {
+    "instruction": "Give one advantage of rural life mentioned.",
+    "input": "Unit 4 - Urban Exodus",
+    "output": "Better air quality."
+  },
+  {
+    "instruction": "Where did Sade seek refuge during her break from recording?",
+    "input": "Queen of Soul",
+    "output": "Madrid and Jamaica."
+  },
+  {
+    "instruction": "What does empowerment help societies to do?",
+    "input": "Lesson 16 – Equality Brings Prosperity",
+    "output": "Reduce poverty, hunger, and disease and promote development."
+  },
+  {
+    "instruction": "What pets is Ann getting, and what are their names?",
+    "input": "Everything to Play For (Ann)",
+    "output": "Two kittens called Archie and Angel."
+  },
+  {
+    "instruction": "Which London museum tells the story of the city from prehistoric times to the 20th century?",
+    "input": "Lesson 6 – Travel Is Fun and Broadens the Mind",
+    "output": "The Museum of London."
+  },
+  {
+    "instruction": "What classroom activity explores pros and cons?",
+    "input": "Module 4 – Science and Technology: A Blessing or a Curse?",
+    "output": "A class debate on cloning or mobile phones."
+  },
+  {
+    "instruction": "What is compared to music in the poem 'Strings'?",
+    "input": "Unit 1 - Strings (Poem)",
+    "output": "Nature (strings in the earth and air)."
+  },
+  {
+    "instruction": "Choose: 'She is used to ____ (work / working) nights.'",
+    "input": "Unit 3 - Used to / Be used to",
+    "output": "Working."
+  },
+  {
+    "instruction": "Who is the narrator in the excerpt 'Narrative of the Life of Frederick Douglass'?",
+    "input": "Lesson 15 – Human Rights",
+    "output": "A former slave (Frederick Douglass)."
+  },
+  {
+    "instruction": "Why should you plan your time in the exam?",
+    "input": "Lesson 19 – Coping with Exams",
+    "output": "To ensure you spend the right amount on each section."
+  },
+  {
+    "instruction": "Start with inversion: 'We rarely see such ads.' → 'Rarely ____ we see such ads.'",
+    "input": "Unit 4 - Consumerism (Grammar)",
+    "output": "Do."
+  },
+  {
+    "instruction": "What does a 'diabetic patch' aim to do, according to the press cuttings?",
+    "input": "Module 6 – Nature: Any Future Without It?",
+    "output": "Detect blood sugar under the skin to ease testing."
+  },
+  {
+    "instruction": "Give a linker of contrast other than 'but'.",
+    "input": "Across Units - Linking Words",
+    "output": "However."
+  },
+  {
+    "instruction": "What does 'give me a hand' mean?",
+    "input": "Introductory Unit - Idioms",
+    "output": "Help me."
+  },
+  {
+    "instruction": "What does 'provision of resources' include?",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "Providing money, food, clothing, and shelter for family members."
+  },
+  {
+    "instruction": "Name one learning aid that helps you study English effectively.",
+    "input": "Introductory Unit - First Impressions",
+    "output": "A monolingual dictionary."
+  },
+  {
+    "instruction": "What does WFP provide to keep children in school?",
+    "input": "Unit 2 - Education for All (Ad)",
+    "output": "Nutritious meals."
+  },
+  {
+    "instruction": "Where do Ann’s grandparents live?",
+    "input": "Everything to Play For (Ann)",
+    "output": "Two in Ireland and two in England."
+  },
+  {
+    "instruction": "What gift did Jim buy for Della?",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "A set of combs for her hair."
+  },
+  {
+    "instruction": "What did Bradley call Jennifer on Mother’s Day?",
+    "input": "Lesson 2 – The Stepmum",
+    "output": "Nan."
+  },
+  {
+    "instruction": "What mixed feeling did Patricia have about the childminder?",
+    "input": "Lesson 20 – I Had No Choice",
+    "output": "Relieved by the good relationship but sad about missing precious hours."
+  },
+  {
+    "instruction": "Who lives with Sade in London according to the text?",
+    "input": "Queen of Soul",
+    "output": "Her teenage daughter Lila."
+  },
+  {
+    "instruction": "Name two 'invasions' the writer faced in the cottage.",
+    "input": "Module 3 – A Change is as Good as a Rest",
+    "output": "Flies and ants (plus visits by a mouse, bat, or snake)."
+  },
+  {
+    "instruction": "What does the London Aquatic Experience display?",
+    "input": "Lesson 6 – Travel Is Fun and Broadens the Mind",
+    "output": "Rare and beautiful aquatic species."
+  },
+  {
+    "instruction": "What does the self-assessment encourage students to do?",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "Reflect on strengths and areas to improve in English."
+  },
+  {
+    "instruction": "What does 'fair play' mean in conflict situations?",
+    "input": "Lesson 9 – Violence",
+    "output": "Acting with respect and fairness, even when you disagree."
+  },
+  {
+    "instruction": "What do friends ask her to do when they visit?",
+    "input": "It’s All in the Preparation",
+    "output": "Make dinner or a cake."
+  },
+  {
+    "instruction": "Name one strict practice common before Montessori’s time.",
+    "input": "Maria Montessori",
+    "output": "Corporal punishment for small mistakes."
+  },
+  {
+    "instruction": "What does 'smart' mean when describing uniforms?",
+    "input": "Lesson 18 – School Uniforms",
+    "output": "Tidy and well‑dressed."
+  },
+  {
+    "instruction": "Choose the best collocation: 'make ____' (a decision / a homework).",
+    "input": "Across Units - Collocations",
+    "output": "A decision."
+  },
+  {
+    "instruction": "What does 'DNA testing' help determine in the examples?",
+    "input": "Module 4 – Science and Technology: A Blessing or a Curse?",
+    "output": "Identity, relationships, or involvement in crimes."
+  },
+  {
+    "instruction": "What does 'must have + past participle' express in context?",
+    "input": "Module 6 – Nature: Any Future Without It?",
+    "output": "A logical deduction about a past event."
+  },
+  {
+    "instruction": "Passive: 'People speak English worldwide.' → 'English ____ worldwide.'",
+    "input": "Across Units - Passive",
+    "output": "Is spoken."
+  },
+  {
+    "instruction": "Choose: 'You ____ (needn’t / mustn’t) leave appliances on standby.'",
+    "input": "Unit 4 - Ecodriving (Modals)",
+    "output": "Needn’t."
+  },
+  {
+    "instruction": "What did Brian learn to use to write on a computer?",
+    "input": "Human Rights — Brian and Rover",
+    "output": "A computer with Braille keys and voice."
+  },
+  {
+    "instruction": "What does 'My game is fair play' encourage?",
+    "input": "Lesson 7 – An Interview with a Footballer",
+    "output": "Playing by the rules and showing respect on the field."
+  },
+  {
+    "instruction": "What is one writing task after disasters texts?",
+    "input": "Module 6 – Nature: Any Future Without It?",
+    "output": "Write about a real or imaginary accident with clear chronology."
+  },
+  {
+    "instruction": "What was Cara’s first job after leaving school?",
+    "input": "We’ve Made It to the Top",
+    "output": "She worked in a travel agency."
+  },
+  {
+    "instruction": "Give one figure of speech used in poetry.",
+    "input": "Across Units - Figures of Speech",
+    "output": "Metaphor."
+  },
+  {
+    "instruction": "What is one personal safety lesson from storms?",
+    "input": "Module 6 – Nature: Any Future Without It?",
+    "output": "Follow warnings and evacuate when instructed."
+  },
+  {
+    "instruction": "What kind of work did they start with?",
+    "input": "We’ve Made It to the Top",
+    "output": "Selling black plastic bags and making record sleeves."
+  },
+  {
+    "instruction": "What job achievement is Patricia known for?",
+    "input": "Lesson 20 – I Had No Choice",
+    "output": "Turning a deficit into a healthy profit at BT pay phones."
+  },
+  {
+    "instruction": "What does Madame Tussaud’s let you do?",
+    "input": "Lesson 6 – Travel Is Fun and Broadens the Mind",
+    "output": "Mingle with movie stars and line up with sporting heroes (in wax)."
+  },
+  {
+    "instruction": "How did Jennifer feel when she first held Bradley?",
+    "input": "Lesson 2 – The Stepmum",
+    "output": "She melted with love."
+  },
+  {
+    "instruction": "Which outing ranks first for both children and adults in the table?",
+    "input": "Unit 1 - Holidaying",
+    "output": "The seaside."
+  },
+  {
+    "instruction": "Add the correct negative prefix: 'polite' → ____.",
+    "input": "Across Units - Prefixes",
+    "output": "Impolite."
+  },
+  {
+    "instruction": "What does 'foyer' mean in a museum context?",
+    "input": "Unit 1 - Art Shows",
+    "output": "An entrance hall or large open space."
+  },
+  {
+    "instruction": "What does 'refreshments' refer to?",
+    "input": "Unit 1 - Art Shows (Vocabulary)",
+    "output": "Drinks (and light snacks)."
+  },
+  {
+    "instruction": "Give a synonym for 'improve'.",
+    "input": "Across Units - Synonyms",
+    "output": "Enhance."
+  },
+  {
+    "instruction": "What does UNICEF stand for?",
+    "input": "Unit 2 - Acronyms",
+    "output": "United Nations International Children’s Emergency Fund."
+  },
+  {
+    "instruction": "What does the singer say about 'Silver Girl'?",
+    "input": "Lesson 4 – Bridge Over Troubled Water",
+    "output": "Her time has come to shine."
+  },
+  {
+    "instruction": "What is Kuala Lumpur described as today?",
+    "input": "Holidays and Tourism — Malaysia",
+    "output": "A busy city with markets and modern shopping centres."
+  },
+  {
+    "instruction": "Form a noun: 'innovate' → ____.",
+    "input": "Across Units - Suffixes",
+    "output": "Innovation."
+  },
+  {
+    "instruction": "What does Dr. Adam Johnson say texting can encourage?",
+    "input": "Lesson 5 – The E‑mailer Versus the Texter",
+    "output": "Flirting, because visual anonymity frees people."
+  },
+  {
+    "instruction": "What do the declaration and speech promote as key to development goals?",
+    "input": "Lesson 16 – Equality Brings Prosperity",
+    "output": "Gender equality and the empowerment of women."
+  },
+  {
+    "instruction": "What behavior of Kelly’s mother frustrates her?",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "Her mother barges in and tries to control every aspect of her life."
+  },
+  {
+    "instruction": "Why might men feel comfortable with texting, according to Gabrielle Mander?",
+    "input": "Lesson 5 – The E‑mailer Versus the Texter",
+    "output": "It lets them be more romantically open without being overheard."
+  },
+  {
+    "instruction": "Give one reason some students enroll in virtual schools.",
+    "input": "Unit 2 - Virtual Schools",
+    "output": "To avoid bullying."
+  },
+  {
+    "instruction": "Name one old town in Malaysia mentioned in the text.",
+    "input": "Holidays and Tourism — Malaysia",
+    "output": "Malacca."
+  },
+  {
+    "instruction": "At what age did Ann start playing the violin?",
+    "input": "Everything to Play For (Ann)",
+    "output": "At four."
+  },
+  {
+    "instruction": "What did Montessori believe helped children learn better?",
+    "input": "Maria Montessori",
+    "output": "Respect, understanding, kindness, and keeping children happy and interested."
+  },
+  {
+    "instruction": "According to the speech, people should raise their children in what conditions?",
+    "input": "Lesson 16 – Equality Brings Prosperity",
+    "output": "In peace, free from hunger, fear, and oppression."
+  },
+  {
+    "instruction": "What is the main reason children work, according to the text?",
+    "input": "Lesson 10 – Child Labour",
+    "output": "Poverty; they contribute to family income."
+  },
+  {
+    "instruction": "Which language is widely spoken in Malaysia according to the text?",
+    "input": "Holidays and Tourism — Malaysia",
+    "output": "English."
+  },
+  {
+    "instruction": "What is the main idea of 'Global warming is human made'?",
+    "input": "Module 6 – Nature: Any Future Without It?",
+    "output": "Human activity causes warming that will affect water resources."
+  },
+  {
+    "instruction": "In 'Snowing, Sometimes', what effect does 'it' create?",
+    "input": "Module 6 – Nature: Any Future Without It?",
+    "output": "It personifies snow’s presence and inevitability without naming it."
+  },
+  {
+    "instruction": "In the speech task, who benefits from the organization's hospitals?",
+    "input": "Module 2 – We Learn to Give, Share and Care",
+    "output": "Children with orthopedic problems or severe injuries at no cost to the patient."
+  },
+  {
+    "instruction": "What does a thesaurus provide?",
+    "input": "Introductory Unit - First Impressions",
+    "output": "Synonyms and antonyms."
+  },
+  {
+    "instruction": "Why did Justin in Malawi leave school?",
+    "input": "Lesson 11 – Life Without Parents",
+    "output": "To earn a living and provide food for his younger siblings."
+  },
+  {
+    "instruction": "What does 'millennium' mean?",
+    "input": "Lesson 16 – Equality Brings Prosperity",
+    "output": "A period of one thousand years."
+  },
+  {
+    "instruction": "What is the message of 'Ebony and Ivory'?",
+    "input": "Module 2 – We Learn to Give, Share and Care",
+    "output": "People of different backgrounds should live together in harmony."
+  },
+  {
+    "instruction": "How often do Jackie and Heather email each other now?",
+    "input": "Lesson 3 – Friendship",
+    "output": "They email each other every day."
+  },
+  {
+    "instruction": "What is a reasonable hotel service priority to discuss?",
+    "input": "Module 3 – A Change is as Good as a Rest",
+    "output": "24‑hour room service, air‑conditioning, or baby‑sitting facilities."
+  },
+  {
+    "instruction": "Write one million using digits with a space or comma.",
+    "input": "Introductory Unit - Numbers",
+    "output": "1,000,000."
+  },
+  {
+    "instruction": "How do passive sentences shift focus in the 'Dream Dinners' text?",
+    "input": "Module 3 – A Change is as Good as a Rest",
+    "output": "They focus on the action or result rather than the doer."
+  },
+  {
+    "instruction": "Why does the singer call himself a 'legal alien'?",
+    "input": "Introductory Unit - Song: Englishman in New York",
+    "output": "He is a legal immigrant living in New York."
+  },
+  {
+    "instruction": "In the short story 'True Love', who is Joe?",
+    "input": "Module 4 – Science and Technology: A Blessing or a Curse?",
+    "output": "A talking computer that matches Milton with an ideal partner."
+  },
+  {
+    "instruction": "What does a topic sentence do?",
+    "input": "Across Units - Cohesion",
+    "output": "States the main idea of a paragraph."
+  },
+  {
+    "instruction": "Name one step in the writing process after drafting.",
+    "input": "Across Units - Writing",
+    "output": "Revising."
+  },
+  {
+    "instruction": "Name one London site mentioned where you can learn history.",
+    "input": "Unit 1 - Guided Tours",
+    "output": "The Museum of London."
+  },
+  {
+    "instruction": "Meaning of 'on cloud nine'.",
+    "input": "Across Units - Idioms",
+    "output": "Extremely happy."
+  },
+  {
+    "instruction": "What problem did Meseret face with her step‑brother?",
+    "input": "Lesson 11 – Life Without Parents",
+    "output": "He beat them and arranged a marriage without her consent."
+  },
+  {
+    "instruction": "What was John Grisham’s first career?",
+    "input": "John Grisham",
+    "output": "He was a lawyer specializing in criminal defence."
+  },
+  {
+    "instruction": "What sentence best explains the title?",
+    "input": "We’ve Made It to the Top",
+    "output": "“We’ve made it to the top.”"
+  },
+  {
+    "instruction": "What does 'to fire employees' mean?",
+    "input": "Unit 4 - Staff Management (Vocabulary)",
+    "output": "To dismiss them from their jobs."
+  },
+  {
+    "instruction": "What does 'will' vs 'be going to' practice in this module?",
+    "input": "Module 6 – Nature: Any Future Without It?",
+    "output": "Predictions and prior plans about environmental actions."
+  },
+  {
+    "instruction": "Give one reason Real Madrid was called 'the team of all stars'.",
+    "input": "Lesson 7 – An Interview with a Footballer",
+    "output": "It gathered many world‑class players."
+  },
+  {
+    "instruction": "Give one linker to compare past and present holidays.",
+    "input": "Unit 1 - Holidaying (Writing)",
+    "output": "Whereas."
+  },
+  {
+    "instruction": "Give one reason for underperformance cited.",
+    "input": "Unit 4 - Staff Management",
+    "output": "Poor management and low engagement."
+  },
+  {
+    "instruction": "What does 'give way to hating' mean?",
+    "input": "Unit 4 - Poem IF (Vocabulary)",
+    "output": "Start to hate; yield to hate."
+  },
+  {
+    "instruction": "What does 'calling names' count as: violent or non‑violent?",
+    "input": "Lesson 9 – Violence",
+    "output": "Violent (verbal aggression)."
+  },
+  {
+    "instruction": "What does a volcano expel during an eruption?",
+    "input": "Module 6 – Nature: Any Future Without It?",
+    "output": "Lava, steam, and ash."
+  },
+  {
+    "instruction": "List two imperatives repeated in 'Catch the Fire'.",
+    "input": "Poems & Songs",
+    "output": "CATCH YOUR FIRE; DON’T KILL."
+  },
+  {
+    "instruction": "What does the mother’s 'lost look' on a first school day suggest?",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "Her concern for her child when out of sight."
+  },
+  {
+    "instruction": "What advice does the module give about exams?",
+    "input": "Module 5 – Education Is Not Filling a Bucket but Lighting a Fire",
+    "output": "Read questions fully, manage time, and review answers."
+  },
+  {
+    "instruction": "What positive habit did Donovan develop at home?",
+    "input": "Lesson 20 – I Had No Choice",
+    "output": "He became self‑sufficient, making beans on toast and doing homework."
+  },
+  {
+    "instruction": "What does 'skim' reading mean?",
+    "input": "Across Units - Reading Skills",
+    "output": "Reading quickly for the main idea."
+  },
+  {
+    "instruction": "Add the missing article: 'He is ____ engineer.'",
+    "input": "Across Units - Articles",
+    "output": "An."
+  },
+  {
+    "instruction": "What does 'distinguish' mean in this context?",
+    "input": "Lesson 18 – School Uniforms",
+    "output": "To recognize or show the difference, e.g., between schools."
+  },
+  {
+    "instruction": "Identify the tense: 'She has been studying for two hours.'",
+    "input": "Across Units - Tenses",
+    "output": "Present perfect continuous."
+  },
+  {
+    "instruction": "Name two physical features you can ask about when meeting someone.",
+    "input": "Getting to Know Each Other",
+    "output": "Eye colour and hair colour."
+  },
+  {
+    "instruction": "What effect can violence in cartoons or films have on children, according to class discussion prompts?",
+    "input": "Lesson 9 – Violence",
+    "output": "It can normalize aggressive behavior (discussion point)."
+  },
+  {
+    "instruction": "What is meant by 'affective support' in a family?",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "Comfort, warmth, and reassurance among family members."
+  },
+  {
+    "instruction": "What information do you often find on a book’s back cover?",
+    "input": "Unit 2 - Back Cover of a Book",
+    "output": "A summary or blurb."
+  },
+  {
+    "instruction": "Type 1: 'If it rains, we ____ at home.'",
+    "input": "Across Units - Conditionals",
+    "output": "Will stay."
+  },
+  {
+    "instruction": "Name one sector where rural working children are commonly found.",
+    "input": "Lesson 10 – Child Labour",
+    "output": "Agriculture."
+  },
+  {
+    "instruction": "What does the proverb 'A family that plays together stays together' promote?",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "Shared activities that strengthen bonds."
+  },
+  {
+    "instruction": "Choose the correct preposition: 'depend ____' (on / at / by).",
+    "input": "Across Units - Prepositions",
+    "output": "On."
+  },
+  {
+    "instruction": "What balanced view is suggested by the captions about technology?",
+    "input": "Module 4 – Science and Technology: A Blessing or a Curse?",
+    "output": "It can be a blessing or a curse depending on use and control."
+  },
+  {
+    "instruction": "Where does Jimmy live, and why is his family life troubled?",
+    "input": "Lesson 11 – Life Without Parents",
+    "output": "In a foster home near New York; his parents were alcohol‑dependent and neglectful."
+  },
+  {
+    "instruction": "According to the text, what holds a family together?",
+    "input": "Lesson 1 – The Image of Who I Am",
+    "output": "Loving and caring for each other."
+  },
+  {
+    "instruction": "What rare condition does Toni have?",
+    "input": "Module 2 – We Learn to Give, Share and Care",
+    "output": "Dyggve–Melchior–Clausen syndrome, a form of dwarfism."
+  },
+  {
+    "instruction": "How does she describe the kitchen job?",
+    "input": "It’s All in the Preparation",
+    "output": "A young person’s job—you’re always on your feet, running around."
+  },
+  {
+    "instruction": "How did Jackie and Heather reconnect after many years?",
+    "input": "Lesson 3 – Friendship",
+    "output": "Through the Friends Reunited website."
+  },
+  {
+    "instruction": "Give one advertised attraction in Florida.",
+    "input": "Module 3 – A Change is as Good as a Rest",
+    "output": "Visit Universal Studios where 'movies come to life'."
+  },
+  {
+    "instruction": "After playing in England, which club did David Beckham join?",
+    "input": "Lesson 7 – An Interview with a Footballer",
+    "output": "Real Madrid."
+  },
+  {
+    "instruction": "In the real-life story about Kirsty and Toni, what did Kirsty give up?",
+    "input": "Module 2 – We Learn to Give, Share and Care",
+    "output": "She gave up college nursing to care for her sister full-time."
+  },
+  {
+    "instruction": "Complete the value: 'Love all, trust a few, do wrong to ____.'",
+    "input": "Unit 4 - Attitudes (Shakespeare)",
+    "output": "None."
+  },
+  {
+    "instruction": "What balanced view does the author recommend about money?",
+    "input": "Lesson 12 – Money and Evil",
+    "output": "Treat money as a good servant, not a bad master."
+  },
+  {
+    "instruction": "Turn 'souvenirs inspired by science' into a compound adjective.",
+    "input": "Unit 1 - Compound Adjectives",
+    "output": "Science-inspired souvenirs."
+  },
+  {
+    "instruction": "Give one positive impact of technology in medicine mentioned.",
+    "input": "Module 4 – Science and Technology: A Blessing or a Curse?",
+    "output": "Computerized surgery helps diagnose and treat diseases more effectively."
+  },
+  {
+    "instruction": "Which blood type can be given to everyone?",
+    "input": "Tips to Keep Your Blood Healthy",
+    "output": "Type O rhesus negative."
+  },
+  {
+    "instruction": "Name two natural disasters defined in the unit.",
+    "input": "Module 6 – Nature: Any Future Without It?",
+    "output": "Earthquakes and tsunamis."
+  },
+  {
+    "instruction": "What happened to Maui at the end of the rescue?",
+    "input": "Can an Animal Save Someone’s Life?",
+    "output": "He died after being exhausted by the powerful waves."
+  },
+  {
+    "instruction": "List two tasks in 'maintenance and management of the family system'.",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "Leadership and decision making."
+  },
+  {
+    "instruction": "What helped Jackie find Heather on the site?",
+    "input": "Lesson 3 – Friendship",
+    "output": "Looking up their school and the year they left."
+  },
+  {
+    "instruction": "In 'Immortality', what feeling best fits the singer—hope or jealousy?",
+    "input": "Unit 1 - Exploring a Song",
+    "output": "Hope."
+  },
+  {
+    "instruction": "What are the Cameron Highlands known for?",
+    "input": "Holidays and Tourism — Malaysia",
+    "output": "Cool highlands at 1829 meters with lush vegetation, hills, mountains, and jungle trees."
+  },
+  {
+    "instruction": "What is one way to reduce panic during exams?",
+    "input": "Lesson 19 – Coping with Exams",
+    "output": "Keep calm and rely on your revision plan."
+  },
+  {
+    "instruction": "What is Sade’s real name?",
+    "input": "Queen of Soul",
+    "output": "Helen Folesade Adu."
+  },
+  {
+    "instruction": "What change did Montessori bring to classrooms?",
+    "input": "Maria Montessori",
+    "output": "Children learn through play with bright toys, painting, drawing, and discovery."
+  },
+  {
+    "instruction": "What job did she choose instead of nursing?",
+    "input": "It’s All in the Preparation",
+    "output": "She became a chef."
+  },
+  {
+    "instruction": "Are 'sea' and 'see' homophones or homographs?",
+    "input": "Introductory Unit - Pronunciation",
+    "output": "Homophones."
+  },
+  {
+    "instruction": "What was the reaction when his mother died?",
+    "input": "Lesson 15 – Human Rights",
+    "output": "He felt as if a stranger had died, due to enforced separation."
+  },
+  {
+    "instruction": "Give one argument against school uniforms.",
+    "input": "Lesson 18 – School Uniforms",
+    "output": "They may suppress individuality."
+  },
+  {
+    "instruction": "Type 2: 'If everyone drove efficiently, we ____ less CO2.'",
+    "input": "Unit 4 - Ecodriving (Conditionals)",
+    "output": "Would emit."
+  },
+  {
+    "instruction": "What social problem does the song highlight?",
+    "input": "Unit 4 - Song: Another Day in Paradise",
+    "output": "Homelessness and neglect."
+  },
+  {
+    "instruction": "According to the text, how can much money lead to evil?",
+    "input": "Lesson 12 – Money and Evil",
+    "output": "It can breed superiority, tyranny, and corruption."
+  },
+  {
+    "instruction": "What is one persuasive technique suggested for speeches?",
+    "input": "Module 2 – We Learn to Give, Share and Care",
+    "output": "Catching attention with a question, anecdote, quote, or statistics."
+  },
+  {
+    "instruction": "In which year did the pen-friend story begin?",
+    "input": "A Friend I Could Never Forget",
+    "output": "1946."
+  },
+  {
+    "instruction": "Give one action families can take on National Solidarity Day.",
+    "input": "Module 2 – We Learn to Give, Share and Care",
+    "output": "Donate money to support the needy."
+  },
+  {
+    "instruction": "According to the text, why do many people enjoy texting?",
+    "input": "Lesson 5 – The E‑mailer Versus the Texter",
+    "output": "It can be discreet and messages can be deleted quickly."
+  },
+  {
+    "instruction": "What does the structure 'want/let/make/have + object + base verb' express?",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "Asking, allowing, forcing, or arranging for someone to do something."
+  },
+  {
+    "instruction": "Use 'used to' in a sentence about past holidays.",
+    "input": "Unit 1 - Holidaying (Grammar)",
+    "output": "We used to spend our holidays at our grandparents’ farm."
+  },
+  {
+    "instruction": "What does 'impediment' mean in 'speech impediment'?",
+    "input": "Unit 2 - Alexander Graham Bell (Vocabulary)",
+    "output": "A difficulty or defect in speaking."
+  },
+  {
+    "instruction": "Name one schooling problem that contributes to child labour.",
+    "input": "Lesson 10 – Child Labour",
+    "output": "No access to schools or poor quality education."
+  },
+  {
+    "instruction": "Name one reason for Grisham’s success given in the text.",
+    "input": "John Grisham",
+    "output": "He writes stories that make readers turn the pages with intelligent plots and interesting characters."
+  },
+  {
+    "instruction": "When you’re 'weary' and 'feeling small', what does the singer promise to do?",
+    "input": "Lesson 4 – Bridge Over Troubled Water",
+    "output": "Dry your tears and be on your side."
+  },
+  {
+    "instruction": "What did Della sell and why?",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "She sold her hair to buy Jim a watch chain."
+  },
+  {
+    "instruction": "What does 'attachment' mean in email?",
+    "input": "Unit 3 - Internet Terms",
+    "output": "A file sent along with a message."
+  },
+  {
+    "instruction": "What does 'to make ends meet' mean?",
+    "input": "Lesson 12 – Money and Evil",
+    "output": "To have enough money to cover one’s basic needs."
+  },
+  {
+    "instruction": "What does the speaker use a mobile phone for at home?",
+    "input": "It’s All in the Preparation",
+    "output": "To tell her mum when she will be late."
+  },
+  {
+    "instruction": "What is a 'package tour' expected to include?",
+    "input": "Module 3 – A Change is as Good as a Rest",
+    "output": "Transport, hotel accommodation, and planned activities."
+  },
+  {
+    "instruction": "What basic right is highlighted as denied to slaves?",
+    "input": "Lesson 15 – Human Rights",
+    "output": "Family unity and the right to knowledge."
+  },
+  {
+    "instruction": "Is 'advice' countable?",
+    "input": "Across Units - Count/Uncount",
+    "output": "No, it is uncountable."
+  },
+  {
+    "instruction": "What kind of accommodation features an 'en suite'?",
+    "input": "Module 3 – A Change is as Good as a Rest",
+    "output": "A room with its own private bathroom."
+  },
+  {
+    "instruction": "Name two topics you can ask a classmate about in pair work.",
+    "input": "Getting to Know Each Other",
+    "output": "Hobbies and favourite subject."
+  },
+  {
+    "instruction": "What question asks about your age?",
+    "input": "Getting to Know Each Other",
+    "output": "How old are you?"
+  },
+  {
+    "instruction": "Give one advantage of distance/e‑learning.",
+    "input": "Module 5 – Education Is Not Filling a Bucket but Lighting a Fire",
+    "output": "Study without formal class attendance at a flexible pace."
+  },
+  {
+    "instruction": "Define 'science' as used in the module.",
+    "input": "Module 4 – Science and Technology: A Blessing or a Curse?",
+    "output": "Systematic knowledge gained through observation and experimentation."
+  },
+  {
+    "instruction": "What do relative clauses add to a sentence?",
+    "input": "Module 5 – Education Is Not Filling a Bucket but Lighting a Fire",
+    "output": "Essential or additional information about people, places, or things."
+  },
+  {
+    "instruction": "Give one advantage texters have over emailers.",
+    "input": "Lesson 5 – The E‑mailer Versus the Texter",
+    "output": "Privacy in public spaces; a text can’t be overheard like a call."
+  },
+  {
+    "instruction": "Give one tip to reduce fuel consumption.",
+    "input": "Unit 4 - Ecodriving",
+    "output": "Avoid high speeds."
+  },
+  {
+    "instruction": "What message does 'TEEVEE' send about television?",
+    "input": "Module 6 – Nature: Any Future Without It?",
+    "output": "Excess TV can kill conversation and relationships."
+  },
+  {
+    "instruction": "Identify the mood in 'It is essential that he attend.'",
+    "input": "Unit 3 - Women Opt Out (Grammar)",
+    "output": "Subjunctive."
+  },
+  {
+    "instruction": "Which text type lists sources like author, year, and title?",
+    "input": "Introductory Unit - Text Types",
+    "output": "A bibliography."
+  },
+  {
+    "instruction": "What is one advantage of emailers mentioned in the text?",
+    "input": "Lesson 5 – The E‑mailer Versus the Texter",
+    "output": "They control content and timing; they are strategic planners."
+  },
+  {
+    "instruction": "What does 'reverse brain drain' mean?",
+    "input": "Unit 3 - Brain Drain (Text C)",
+    "output": "Skilled emigrants returning home."
+  },
+  {
+    "instruction": "What is the dog’s name in the story?",
+    "input": "Human Rights — Brian and Rover",
+    "output": "Rover."
+  },
+  {
+    "instruction": "Which vitamin helps enhance iron absorption?",
+    "input": "Tips to Keep Your Blood Healthy",
+    "output": "Vitamin C."
+  },
+  {
+    "instruction": "In which year was Maria Montessori born?",
+    "input": "Maria Montessori",
+    "output": "1870."
+  },
+  {
+    "instruction": "What does the Bridgemary plan group classes by?",
+    "input": "Unit 2 - Ability vs. Age",
+    "output": "Ability (levels), not age."
+  },
+  {
+    "instruction": "What do terms like 'germline' and 'gene therapy' refer to?",
+    "input": "Module 4 – Science and Technology: A Blessing or a Curse?",
+    "output": "Germline affects inheritable genes; gene therapy tries to treat or repair diseases."
+  },
+  {
+    "instruction": "Why would she be more careful if she lived in London?",
+    "input": "It’s All in the Preparation",
+    "output": "Because it is not very safe at night."
+  },
+  {
+    "instruction": "What is the main theme of 'The Christmas Present'?",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "Selfless love and sacrifice in giving."
+  },
+  {
+    "instruction": "Complete the pattern: 'longer life, better health, ____ crime.'",
+    "input": "Unit 4 - Urban Exodus (Parallelism)",
+    "output": "Lower."
+  },
+  {
+    "instruction": "What is a stanza?",
+    "input": "Across Units - Poetry",
+    "output": "A group of lines forming a unit in a poem."
+  },
+  {
+    "instruction": "Who cared for Donovan before and after school?",
+    "input": "Lesson 20 – I Had No Choice",
+    "output": "A childminder called Auntie Margaret."
+  },
+  {
+    "instruction": "What does the proverb about rice, trees, and education suggest?",
+    "input": "Module 5 – Education Is Not Filling a Bucket but Lighting a Fire",
+    "output": "Short, medium, and long‑term planning, with education impacting a lifetime."
+  },
+  {
+    "instruction": "Why did the narrator not know his age?",
+    "input": "Lesson 15 – Human Rights",
+    "output": "Masters kept slaves ignorant, and there were no authentic records."
+  },
+  {
+    "instruction": "What is the name of the 21‑month‑old dog in the story?",
+    "input": "Can an Animal Save Someone’s Life?",
+    "output": "Maui."
+  },
+  {
+    "instruction": "What social problems can both wealth and poverty cause?",
+    "input": "Lesson 12 – Money and Evil",
+    "output": "Social calamities and moral decline."
+  },
+  {
+    "instruction": "What kind of work did Justin do to feed his family?",
+    "input": "Lesson 11 – Life Without Parents",
+    "output": "He carried food for merchants."
+  },
+  {
+    "instruction": "Where did they finally find a spring for their water?",
+    "input": "We’ve Made It to the Top",
+    "output": "In Dartmoor, England."
+  },
+  {
+    "instruction": "Who helped bring swimmers back to shore with Maui?",
+    "input": "Can an Animal Save Someone’s Life?",
+    "output": "Pascal and his friend Bruno."
+  },
+  {
+    "instruction": "Which year did she become famous with “Your Love Is King”?",
+    "input": "Queen of Soul",
+    "output": "1984."
+  },
+  {
+    "instruction": "What should you do if you get stuck on one question?",
+    "input": "Lesson 19 – Coping with Exams",
+    "output": "Leave it and come back later."
+  },
+  {
+    "instruction": "How many publishers rejected ‘A Time To Kill’ before success?",
+    "input": "John Grisham",
+    "output": "28 publishers."
+  },
+  {
+    "instruction": "What is one metaphor in 'Ebony and Ivory'?",
+    "input": "Poems & Songs",
+    "output": "Piano keys symbolize people of different races living in harmony."
+  },
+  {
+    "instruction": "What does the module say about 'ever-increasing costs' in philanthropy?",
+    "input": "Module 2 – We Learn to Give, Share and Care",
+    "output": "They require consistent support and efficient management."
+  },
+  {
+    "instruction": "What field did Ahmed Zewail win a Nobel Prize in?",
+    "input": "Unit 3 - Scientists' Achievements",
+    "output": "Chemistry."
+  },
+  {
+    "instruction": "In 'The Christmas Present', what two prized possessions are mentioned?",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "Jim’s gold watch and Della’s beautiful long hair."
+  },
+  {
+    "instruction": "What is 'cloning'?",
+    "input": "Module 4 – Science and Technology: A Blessing or a Curse?",
+    "output": "Creating a new organism genetically identical to another."
+  },
+  {
+    "instruction": "What does 'per annum' mean?",
+    "input": "Unit 4 - Job Ads (Vocabulary)",
+    "output": "Per year."
+  },
+  {
+    "instruction": "What is 'netiquette'?",
+    "input": "Unit 3 - Internet Terms",
+    "output": "Rules for polite behavior on the Internet."
+  },
+  {
+    "instruction": "Give one reason cited for women leaving corporations.",
+    "input": "Unit 3 - Women Opt Out (Argument)",
+    "output": "To seek flexibility."
+  },
+  {
+    "instruction": "What is one topic in 'School-related Words'?",
+    "input": "Module 5 – Education Is Not Filling a Bucket but Lighting a Fire",
+    "output": "Core subjects and levels such as O‑level or A‑level."
+  },
+  {
+    "instruction": "Modal of obligation: You ____ wear a seat belt.",
+    "input": "Across Units - Modals",
+    "output": "Must."
+  },
+  {
+    "instruction": "What everyday tasks are listed in the family roles table?",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "Cooking, washing, shopping, taking out the trash, and gardening."
+  },
+  {
+    "instruction": "In the family conversation task, what is a polite way to suggest?",
+    "input": "Module 5 – Education Is Not Filling a Bucket but Lighting a Fire",
+    "output": "Why don’t you try revising earlier in the evening?"
+  },
+  {
+    "instruction": "What is the Golden Rule referred to in the family poem?",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "Treat others the way you want to be treated."
+  },
+  {
+    "instruction": "What suffix creates abstract nouns like 'childhood'?",
+    "input": "Unit 2 - Lifelong Learning",
+    "output": "-hood."
+  },
+  {
+    "instruction": "Why did Patricia return to work when Donovan was two?",
+    "input": "Lesson 20 – I Had No Choice",
+    "output": "Her family needed the money."
+  },
+  {
+    "instruction": "List the four main blood groups mentioned.",
+    "input": "Tips to Keep Your Blood Healthy",
+    "output": "A, B, AB, and O."
+  },
+  {
+    "instruction": "Is 'who shared the credit' restrictive or non‑restrictive in 'Hillier, who shared the credit…'?",
+    "input": "Unit 3 - Scientists' Achievements (Clauses)",
+    "output": "Non‑restrictive."
+  },
+  {
+    "instruction": "Add a negative prefix: 'legal' → ____.",
+    "input": "Unit 1 - Space Tourism (Grammar)",
+    "output": "Illegal."
+  },
+  {
+    "instruction": "Name one Shakespeare play mentioned in the book.",
+    "input": "Across Units - Culture",
+    "output": "As You Like It."
+  },
+  {
+    "instruction": "For Slim, what does travel mainly mean?",
+    "input": "Lesson 6 – Travel Is Fun and Broadens the Mind",
+    "output": "Discovering other people’s culture and history."
+  },
+  {
+    "instruction": "What did the two friends exchange over the years?",
+    "input": "A Friend I Could Never Forget",
+    "output": "Letters and photos, later wedding and baby pictures."
+  },
+  {
+    "instruction": "Which question asks about your place of living?",
+    "input": "Getting to Know Each Other",
+    "output": "Where do you live?"
+  },
+  {
+    "instruction": "Name one lifestyle tip to boost circulation.",
+    "input": "Tips to Keep Your Blood Healthy",
+    "output": "Take plenty of exercise, even using stairs instead of the lift."
+  },
+  {
+    "instruction": "Why did Jennifer say she 'stopped being a stepmum' that day?",
+    "input": "Lesson 2 – The Stepmum",
+    "output": "Because her grandson Bradley called her 'Nan', accepting her as family."
+  },
+  {
+    "instruction": "Differentiate 'invent' vs 'discover' in one sentence.",
+    "input": "Unit 3 - Inventions (Vocabulary)",
+    "output": "You invent something new; you discover something that already exists."
+  },
+  {
+    "instruction": "Where did she set up a school in 1901?",
+    "input": "Maria Montessori",
+    "output": "In Rome."
+  },
+  {
+    "instruction": "Why keep a portfolio?",
+    "input": "Across Units - Study Skills",
+    "output": "To track progress and organize work."
+  },
+  {
+    "instruction": "What will the singer do when 'pain is all around'?",
+    "input": "Lesson 4 – Bridge Over Troubled Water",
+    "output": "Lay himself down like a bridge over troubled water."
+  },
+  {
+    "instruction": "From which country did Helen write her first letter?",
+    "input": "A Friend I Could Never Forget",
+    "output": "America."
+  },
+  {
+    "instruction": "Name two essential family roles mentioned in the module.",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "Provision of resources and nurturance and support."
+  },
+  {
+    "instruction": "Adjective form of 'creativity' is ____.",
+    "input": "Across Units - Word Families",
+    "output": "Creative."
+  },
+  {
+    "instruction": "Where was Sade born?",
+    "input": "Queen of Soul",
+    "output": "Nigeria."
+  },
+  {
+    "instruction": "Give an example of a compound adjective from the unit.",
+    "input": "Module 4 – Science and Technology: A Blessing or a Curse?",
+    "output": "A 'state-of-the-art' medical camera."
+  },
+  {
+    "instruction": "What did Jackie say about their renewed friendship?",
+    "input": "Lesson 3 – Friendship",
+    "output": "It’s deeper than at school, which comes with age and experience."
+  },
+  {
+    "instruction": "In the reading 'I’m really overwhelmed…', what upsets Kelly about grades?",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "Her father says a B is not satisfactory."
+  },
+  {
+    "instruction": "What emotion did colleagues initially make Patricia feel?",
+    "input": "Lesson 20 – I Had No Choice",
+    "output": "Guilty for going back to work."
+  },
+  {
+    "instruction": "Give one argument against cloning raised in class debate.",
+    "input": "Module 4 – Science and Technology: A Blessing or a Curse?",
+    "output": "It may be unethical and could harm biodiversity or animal welfare."
+  },
+  {
+    "instruction": "What happens when you can buy everything 'right away'?",
+    "input": "Lesson 12 – Money and Evil",
+    "output": "Pleasures may lose value, leading to boredom."
+  },
+  {
+    "instruction": "Why might someone prefer 'cooking out, eating in'?",
+    "input": "Module 3 – A Change is as Good as a Rest",
+    "output": "To control ingredients and cost while still enjoying home comfort."
+  },
+  {
+    "instruction": "What question drives 'Catch the Fire'?",
+    "input": "Poems & Songs",
+    "output": "“Where is your fire?”—a call to find and pass on positive energy and purpose."
+  },
+  {
+    "instruction": "What is one risk of genetic engineering discussed?",
+    "input": "Module 4 – Science and Technology: A Blessing or a Curse?",
+    "output": "Unexpected health effects such as harmful reactions or ethical misuse."
+  },
+  {
+    "instruction": "Give an antonym for 'increase'.",
+    "input": "Across Units - Antonyms",
+    "output": "Decrease."
+  },
+  {
+    "instruction": "After how many years of writing did they finally meet?",
+    "input": "A Friend I Could Never Forget",
+    "output": "After 38 years of correspondence."
+  },
+  {
+    "instruction": "What habit should be avoided for healthy blood?",
+    "input": "Tips to Keep Your Blood Healthy",
+    "output": "Smoking."
+  },
+  {
+    "instruction": "What does 'put off the meeting' mean?",
+    "input": "Introductory Unit - Phrasal Verbs",
+    "output": "To postpone the meeting."
+  },
+  {
+    "instruction": "What very rich client group is targeted by suborbital flights?",
+    "input": "Unit 1 - Space Tourism (Reading)",
+    "output": "Well-to-do customers."
+  },
+  {
+    "instruction": "What is a sensible complaint point in a holiday letter?",
+    "input": "Module 3 – A Change is as Good as a Rest",
+    "output": "Noisy works, misbooked room, or a guide unable to walk the route."
+  },
+  {
+    "instruction": "Give one item included in a typical package holiday.",
+    "input": "Unit 1 - Travel Agency (Listening)",
+    "output": "Hotel accommodation."
+  },
+  {
+    "instruction": "Give one spelling difference between American and British English for 'colour/____'.",
+    "input": "Introductory Unit - English Around the World",
+    "output": "Color."
+  },
+  {
+    "instruction": "What did his company arrange instead of accepting his resignation?",
+    "input": "Human Rights — Brian and Rover",
+    "output": "They sent him to a special retraining college."
+  },
+  {
+    "instruction": "What should vegetarians eat to boost vitamin B12?",
+    "input": "Tips to Keep Your Blood Healthy",
+    "output": "Fortified foods such as milk and juices."
+  },
+  {
+    "instruction": "Name one typical item in an academic job ad.",
+    "input": "Unit 4 - Job Ads",
+    "output": "A closing date for applications."
+  },
+  {
+    "instruction": "Meaning of 'set up' a company.",
+    "input": "Across Units - Phrasal Verbs",
+    "output": "To start or establish it."
+  },
+  {
+    "instruction": "Name two foods Ann likes.",
+    "input": "Everything to Play For (Ann)",
+    "output": "Carrots and grapes."
+  },
+  {
+    "instruction": "What is one ethical question the module raises about 'designer babies'?",
+    "input": "Module 4 – Science and Technology: A Blessing or a Curse?",
+    "output": "Who should have access and is it fair or ethical to enhance traits?"
+  },
+  {
+    "instruction": "Why is checking answers important?",
+    "input": "Lesson 19 – Coping with Exams",
+    "output": "It helps spot mistakes in earlier responses."
+  },
+  {
+    "instruction": "Give one piece of advice for healthy family role-sharing from the module.",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "Establish clear, flexible, and fair family roles."
+  },
+  {
+    "instruction": "Choose: 'She stopped ____ (to smoke / smoking) because it’s unhealthy.'",
+    "input": "Unit 1 - Space Tourism (Grammar)",
+    "output": "Smoking."
+  },
+  {
+    "instruction": "What is a 'beneficiary'?",
+    "input": "Module 2 – We Learn to Give, Share and Care",
+    "output": "A person who receives help or services from a charitable program."
+  },
+  {
+    "instruction": "What punctuation closes an indirect question?",
+    "input": "Across Units - Punctuation",
+    "output": "A full stop (period)."
+  },
+  {
+    "instruction": "Define 'technology' as used in the module.",
+    "input": "Module 4 – Science and Technology: A Blessing or a Curse?",
+    "output": "The creation and use of technical means and their interaction with life and society."
+  },
+  {
+    "instruction": "Give one argument in favor of school uniforms from the students’ opinions.",
+    "input": "Lesson 18 – School Uniforms",
+    "output": "They reduce competition and create a sense of community."
+  },
+  {
+    "instruction": "What basic need do all three stories stress?",
+    "input": "Lesson 11 – Life Without Parents",
+    "output": "Safety, care, and access to education."
+  },
+  {
+    "instruction": "Why did Sarah say she enjoyed wearing a uniform at secondary school?",
+    "input": "Lesson 18 – School Uniforms",
+    "output": "She felt proud of it, though she admits there are faults."
+  },
+  {
+    "instruction": "What is one criticism of emailers?",
+    "input": "Lesson 5 – The E‑mailer Versus the Texter",
+    "output": "They may avoid emotional conflict by firing or breaking up by email."
+  },
+  {
+    "instruction": "Name one activity Jackie and Heather do together now.",
+    "input": "Lesson 3 – Friendship",
+    "output": "They go to restaurants, wine bars, the cinema, or go shopping."
+  },
+  {
+    "instruction": "What is one purpose of a book report?",
+    "input": "Module 5 – Education Is Not Filling a Bucket but Lighting a Fire",
+    "output": "Summarize plot and evaluate the book for other readers."
+  },
+  {
+    "instruction": "What term describes educated people leaving their country?",
+    "input": "Unit 3 - Brain Drain (Text A)",
+    "output": "Brain drain."
+  },
+  {
+    "instruction": "What are working children often deprived of, according to the text?",
+    "input": "Lesson 10 – Child Labour",
+    "output": "The simple joys of childhood and healthy development."
+  },
+  {
+    "instruction": "What does 'overburdened' mean in family context?",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "Having too many roles or duties to handle well."
+  },
+  {
+    "instruction": "What special recipe does Ann make with her mum?",
+    "input": "Everything to Play For (Ann)",
+    "output": "Her great-grandma’s cakes with a cherry on top."
+  },
+  {
+    "instruction": "Report: 'You’ll love the food.' → 'You said we ____ love the food.'",
+    "input": "Unit 1 - Travel Agency (Reported Speech)",
+    "output": "Would."
+  },
+  {
+    "instruction": "What does Whitney want to be remembered for?",
+    "input": "Lesson 1 – The Image of Who I Am",
+    "output": "Seeing life full of possibilities and giving appreciation and support."
+  },
+  {
+    "instruction": "For Zied, what does travel mainly mean?",
+    "input": "Lesson 6 – Travel Is Fun and Broadens the Mind",
+    "output": "Fun, entertainment, and sport."
+  },
+  {
+    "instruction": "In the listening poem, what do stored drawings represent?",
+    "input": "Module 1 – In Time of Test, Family is Best",
+    "output": "Parents valuing their children’s productions and memories."
+  },
+  {
+    "instruction": "In 'Father and Son', why can’t they communicate easily?",
+    "input": "Poems & Songs",
+    "output": "Different perspectives: the father urges patience; the son seeks independence."
+  },
+  {
+    "instruction": "Name one activity that can be learned at Anglian Water’s reservoirs.",
+    "input": "Lesson 6 – Travel Is Fun and Broadens the Mind",
+    "output": "Sailing, windsurfing, canoeing, or water‑skiing."
+  }
+]
