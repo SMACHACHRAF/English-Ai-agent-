@@ -14,7 +14,7 @@ Ce projet vise à créer un agent conversationnel (chatbot) pour aider les appre
 - `/training` : Scripts et notebooks pour l'entraînement du modèle LLM
   - `prepare_data.py` : Préparation des données pour fine-tuning
   - `train_model.py` : Script d'entraînement
-  - `train_model.ipynb` : Notebook pour entraîner sur Google Colab
+  - `train_model.ipynb` : Notebook pour entraîner sur Google Colab ou directement sur VScode
 
 - `/models` : Contient les modèles entraînés et les checkpoints
 
